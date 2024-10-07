@@ -78,7 +78,7 @@ These are just a few of the outputs; please refer to the `outputs.tf` file for a
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/GastonFRC/terraform-vpc-module.git
+   git clone https://github.com/GastonFRC/vpc-module.git
    cd your_repository
    ```
 2. Initialize Terraform:
