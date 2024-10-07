@@ -1,0 +1,5 @@
+TO-DO.txt
+.terraform/
+terraform.tfstate
+terraform.tfstate.backup
+example/.terraform
